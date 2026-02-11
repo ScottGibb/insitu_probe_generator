@@ -1,0 +1,15 @@
+[project]
+name = "insitu_probe_generator"
+version = "0.1.0"
+description = "A short description of your project"
+readme = "README.md"
+requires-python = ">=3.10"
+
+dependencies = [
+    "biopython>=1.77",
+    "ipykernel>=7.2.0",
+    "numpy>=1.19.1",
+    "pandas>=1.1.1",
+]
+
+
